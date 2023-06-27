@@ -52,9 +52,9 @@ I am Ziplinker.net Converter Bot. I Can Convert Links Directly From Your Ziplink
 
 **⚡Features⚡**
 
-**• I can Convert any links or posts to your OmegaLinks link / post. (Button Links Posts, Hidden links/Hyperlinks All Are Supported)**
+**• I can Convert any links or posts to your Ziplinker.net / post. (Button Links Posts, Hidden links/Hyperlinks All Are Supported)**
 
-**• I can Convert unlimited OmegaLinks.in links at once.** (if you are sending a list of urls.)
+**• I can Convert unlimited Ziplinker.net links at once.** (if you are sending a list of urls.)
 
 **• No need to share password or email to convert links.**
 
@@ -84,7 +84,7 @@ List of Admins who has access to this Bot
 ABOUT_REPLY_MARKUP = InlineKeyboardMarkup([
 
     [
-        InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ  ᴛ𝚘  𝙾ᴡɴᴇʀ  ❣️', url='https://telegram.me/crezyDevelopers')
+        InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ  ᴛ𝚘  𝙾ᴡɴᴇʀ  ❣️', url='https://telegram.me/ziplinker')
         
     ],
 
@@ -94,7 +94,7 @@ ABOUT_REPLY_MARKUP = InlineKeyboardMarkup([
 HELP_REPLY_MARKUP = InlineKeyboardMarkup([
 
     [
-        InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ  ᴛ𝚘  𝙾ᴡɴᴇʀ  ❣️', url='https://telegram.me/crezydevelopers')
+        InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ  ᴛ𝚘  𝙾ᴡɴᴇʀ  ❣️', url='https://telegram.me/ziplinker')
         
     ],
 
@@ -103,7 +103,7 @@ HELP_REPLY_MARKUP = InlineKeyboardMarkup([
 
 START_MESSAGE_REPLY_MARKUP  = InlineKeyboardMarkup([
     [
-        InlineKeyboardButton('🪄  Connect  To  Ziplinker.net  ⚙️', url=f'http://Ziplinker.net')
+        InlineKeyboardButton('🪄  Connect  To  Ziplinker.net  ⚙️', url=f'http://Ziplinker.net/member/tools/api?connect=true')
     ]
 ])
 
@@ -172,7 +172,7 @@ To Remove Footer Text: `/footer remove`
 👉 https://youtu.be/pYLm0G0
 ━━━━━━━━━━━━━━━━━
 🔥 𝐉𝐨𝐢𝐧 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🔥
-👉 https://telegram.me/Crezydeveloperr`
+👉 https://telegram.me/ziplinker_net`
 """
 
 USERNAME_TEXT = """**ᴘʟᴇᴀꜱᴇ  ᴛʏᴘᴇ  ɪɴ  ɢɪᴠᴇɴ  ꜰᴏʀᴍᴀᴛ
@@ -182,11 +182,11 @@ USERNAME_TEXT = """**ᴘʟᴇᴀꜱᴇ  ᴛʏᴘᴇ  ɪɴ  ɢɪᴠᴇɴ  ꜰᴏ�
 
 𝐄𝐱𝐚𝐦𝐩𝐥𝐞:
 
-/channel @only_botz
+/channel @ziplinker_net
 
 𝐎𝐫
 
-`/channel https://telegram.me/only_botz`
+`/channel https://telegram.me/ziplinker_net`
 
 
 👉 /features  ᴛᴏ  ᴋɴᴏᴡ  ᴍᴏʀᴇ  ꜰᴇᴀᴛᴜʀᴇꜱ  ᴏꜰ  ᴛʜɪꜱ  ʙᴏᴛ."""
@@ -198,7 +198,7 @@ This image will be automatically replaced with other images in the post
 
 To remove custom image, `/banner_image remove`
 
-Eg: `/banner_image https://telegra.ph/file/5e96340a914787a.jpg`"""
+Eg: `/banner_image https://telegra.ph/file96340a914787a.jpg`"""
 
 
 BANNED_USER_TXT = """
