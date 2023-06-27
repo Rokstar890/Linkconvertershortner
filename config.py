@@ -28,5 +28,5 @@ UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "ziplinker_net")
 BROADCAST_AS_COPY = os.environ.get('BROADCAST_AS_COPY', "True")
 
 # image when someone hit /start
-WELCOME_IMAGE = os.environ.get("WELCOME_IMAGE", '')
+WELCOME_IMAGE = os.environ.get("WELCOME_IMAGE", 'https://telegra.ph/file/a60660ceaeb7f4a31cdfc.jpg')
 LINK_BYPASS = "False"
