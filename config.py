@@ -9,7 +9,7 @@ load_dotenv()
 # Mandatory variables for the bot to start
 API_ID = int(os.getenv("API_ID", "21114403"))
 API_HASH = os.environ.get("API_HASH", "192c2b697e9f45650354fd47292ccf78")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "5870227633:AAEi2mNjiaWuo0vYRta-XHEQ4zhhMKJI1CI")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "5870227633:AAH_9DYDYaNBCi4S3e8MnGHArjACi57cdbA")
 ADMINS = [int(i.strip()) for i in os.environ.get("ADMINS").split("6201745002")] if os.environ.get("ADMINS") else []
 ADMIN = ADMINS
 DATABASE_NAME = os.environ.get("DATABASE_NAME", "telegramms")
