@@ -6,7 +6,7 @@ COPY requirements.txt /requirements.txt
 
 RUN cd /
 RUN pip3 install -U pip && pip3 install -U -r requirements.txt
-RUN mkdir /Shortner-Converter-Bot
-WORKDIR /Shortner-Converter-Bot
+RUN mkdir /Linkconvertershortner
+WORKDIR /Linkconvertershortner
 COPY start.sh /start.sh
 CMD ["/bin/bash", "/start.sh"]
