@@ -9,7 +9,7 @@ load_dotenv()
 # Mandatory variables for the bot to start
 API_ID = int(os.getenv("API_ID", "24003416"))
 API_HASH = os.environ.get("API_HASH", "013d9b3fe388308ff1272d33d1e40e2b")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "6858627899:AAEtsmzG_9kRpwXqkULMXn56Bn5K5fTp4fU")
 ADMINS = [int(i.strip()) for i in os.environ.get("ADMINS").split("6683865620")] if os.environ.get("ADMINS") else []
 ADMIN = ADMINS
 DATABASE_NAME = os.environ.get("DATABASE_NAME", "telegramms")
@@ -22,7 +22,7 @@ ADMINS.append(1255023013)
 LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002133531200")) 
 
 # For Force Subscription
-UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "ziplinker_net")
+UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "linksmoneyofficial")
 
 # true if forward should be avoided
 BROADCAST_AS_COPY = os.environ.get('BROADCAST_AS_COPY', "True")
