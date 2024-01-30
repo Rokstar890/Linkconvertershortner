@@ -48,7 +48,7 @@ HELP_MESSAGE = '''**{},**
 𝐍𝐎𝐓𝐄 :  ꜰᴏʀ  ᴅᴇᴛᴀɪʟꜱ 👇 👇'''
 
 ABOUT_TEXT = '''**
-I am Ziplinker.net Converter Bot. I Can Convert Links Directly From Your Linksmoney.in Account,**
+I am Linksmoney.in Converter Bot. I Can Convert Links Directly From Your Linksmoney.in Account,**
 
 **⚡Features⚡**
 
@@ -103,7 +103,7 @@ HELP_REPLY_MARKUP = InlineKeyboardMarkup([
 
 START_MESSAGE_REPLY_MARKUP  = InlineKeyboardMarkup([
     [
-        InlineKeyboardButton('🪄  Connect  To  Ziplinker.net  ⚙️', url=f'http://Linksmoney.in/member/tools/api?connect=true')
+        InlineKeyboardButton('🪄  Connect  To  Linksmoney.in  ⚙️', url=f'http://Linksmoney.in/member/tools/api?connect=true')
     ]
 ])
 
