@@ -3,14 +3,14 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
 START_MESSAGE = '''**{},
-I am Ziplinker Net Converter Bot. I Can Convert Links Directly From Your Ziplinker.net Account,
+I am Linksmoney Net Converter Bot. I Can Convert Links Directly From Your Linksmoney.in Account,
     
-Go To** 👉 http://Ziplinker.net/member/tools/api?connect=true
+Go To** 👉 http://Linksmoney.in/member/tools/api?connect=true
 **🤗 Than Hit Start If You're Redirected To Bot.**
 
 Other Ways 👇
 
-1. **Go To** 👉 http://Ziplinker.net/member/tools/api
+1. **Go To** 👉 http://Linksmoney.in/member/tools/api
 2. **Than Copy** API Key
 3. **Than Type** `/api` than give a single space and than paste your API Key
 **(see example to understand more...)**
@@ -25,13 +25,13 @@ Other Ways 👇
 **➕ Hit** 👉 /channel To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
-If You are new to Ziplinker.net then click on below button to create your account.'''
+If You are new to Linksmoney.in then click on below button to create your account.'''
 
 HELP_MESSAGE = '''**{},**
 
 ɪ  ᴄᴀɴ  ᴄᴏɴᴠᴇʀᴛ  ᴀɴʏ  ᴅɪʀᴇᴄᴛ  ʟɪɴᴋ  ɪɴᴛᴏ  ʏᴏᴜʀ  ᴜʀʟ  ꜱʜᴏʀᴛᴇʀɴ  ʟɪɴᴋꜱ.
     
-𝟏.  ɢᴏ  ᴛᴏ  👉  http://Ziplinker.net/member/tools/api
+𝟏.  ɢᴏ  ᴛᴏ  👉  http://Linksmoney.in/member/tools/api
   
 𝟐.  ᴛʜᴀɴ  ᴄᴏᴘʏ  **ᴀᴘɪ  ᴋᴇʏ**
 
@@ -48,13 +48,13 @@ HELP_MESSAGE = '''**{},**
 𝐍𝐎𝐓𝐄 :  ꜰᴏʀ  ᴅᴇᴛᴀɪʟꜱ 👇 👇'''
 
 ABOUT_TEXT = '''**
-I am Ziplinker.net Converter Bot. I Can Convert Links Directly From Your Ziplinker.net Account,**
+I am Ziplinker.net Converter Bot. I Can Convert Links Directly From Your Linksmoney.in Account,**
 
 **⚡Features⚡**
 
-**• I can Convert any links or posts to your Ziplinker.net / post. (Button Links Posts, Hidden links/Hyperlinks All Are Supported)**
+**• I can Convert any links or posts to your Linksmoney.in / post. (Button Links Posts, Hidden links/Hyperlinks All Are Supported)**
 
-**• I can Convert unlimited Ziplinker.net links at once.** (if you are sending a list of urls.)
+**• I can Convert unlimited Linksmoney.in links at once.** (if you are sending a list of urls.)
 
 **• No need to share password or email to convert links.**
 
@@ -66,7 +66,7 @@ I am Ziplinker.net Converter Bot. I Can Convert Links Directly From Your Ziplink
 
 **• I Can Automatically Replace Your Banner Image To images in the post. Hit  👉/Banner_image To Know More...**
 
- Anyone who want to use any **other shortner** instead of Ziplinker Net than **contact to owner** (all **shortners support** available.)'''
+ Anyone who want to use any **other shortner** instead of Linksmoney in than **contact to owner** (all **shortners support** available.)'''
 
 CUSTOM_ALIAS_MESSAGE = """For Custom Alias, `[link] | [custom_alias]`, Send in this format
 
@@ -84,7 +84,7 @@ List of Admins who has access to this Bot
 ABOUT_REPLY_MARKUP = InlineKeyboardMarkup([
 
     [
-        InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ  ᴛ𝚘  𝙾ᴡɴᴇʀ  ❣️', url='https://telegram.me/ziplinker')
+        InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ  ᴛ𝚘  𝙾ᴡɴᴇʀ  ❣️', url='https://telegram.me/netflix_india_007')
         
     ],
 
@@ -94,7 +94,7 @@ ABOUT_REPLY_MARKUP = InlineKeyboardMarkup([
 HELP_REPLY_MARKUP = InlineKeyboardMarkup([
 
     [
-        InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ  ᴛ𝚘  𝙾ᴡɴᴇʀ  ❣️', url='https://telegram.me/ziplinker')
+        InlineKeyboardButton('ᴄᴏɴᴛᴀᴄᴛ  ᴛ𝚘  𝙾ᴡɴᴇʀ  ❣️', url='https://telegram.me/netflix_india_007')
         
     ],
 
@@ -103,7 +103,7 @@ HELP_REPLY_MARKUP = InlineKeyboardMarkup([
 
 START_MESSAGE_REPLY_MARKUP  = InlineKeyboardMarkup([
     [
-        InlineKeyboardButton('🪄  Connect  To  Ziplinker.net  ⚙️', url=f'http://Ziplinker.net/member/tools/api?connect=true')
+        InlineKeyboardButton('🪄  Connect  To  Ziplinker.net  ⚙️', url=f'http://Linksmoney.in/member/tools/api?connect=true')
     ]
 ])
 
@@ -117,7 +117,7 @@ BACK_REPLY_MARKUP = InlineKeyboardMarkup([
 ])
 
 USER_ABOUT_MESSAGE = """
-- Website: [{base_site}](http://Ziplinker.net)
+- Website: [{base_site}](http://Linksmoney.in)
 
 - Site Link:
  {base_site}
@@ -172,7 +172,7 @@ To Remove Footer Text: `/footer remove`
 👉 https://youtu.be/pYLm0G0
 ━━━━━━━━━━━━━━━━━
 🔥 𝐉𝐨𝐢𝐧 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 🔥
-👉 https://telegram.me/ziplinker_net`
+👉 https://telegram.me/linksmoneyofficial`
 """
 
 USERNAME_TEXT = """**ᴘʟᴇᴀꜱᴇ  ᴛʏᴘᴇ  ɪɴ  ɢɪᴠᴇɴ  ꜰᴏʀᴍᴀᴛ
@@ -186,7 +186,7 @@ USERNAME_TEXT = """**ᴘʟᴇᴀꜱᴇ  ᴛʏᴘᴇ  ɪɴ  ɢɪᴠᴇɴ  ꜰᴏ�
 
 𝐎𝐫
 
-`/channel https://telegram.me/ziplinker_net`
+`/channel https://telegram.me/linksmoneyofficial`
 
 
 👉 /features  ᴛᴏ  ᴋɴᴏᴡ  ᴍᴏʀᴇ  ꜰᴇᴀᴛᴜʀᴇꜱ  ᴏꜰ  ᴛʜɪꜱ  ʙᴏᴛ."""
