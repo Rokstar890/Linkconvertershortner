@@ -182,7 +182,7 @@ USERNAME_TEXT = """**ᴘʟᴇᴀꜱᴇ  ᴛʏᴘᴇ  ɪɴ  ɢɪᴠᴇɴ  ꜰᴏ�
 
 𝐄𝐱𝐚𝐦𝐩𝐥𝐞:
 
-/channel @ziplinker_net
+/channel linksmoneyofficial 
 
 𝐎𝐫
 
