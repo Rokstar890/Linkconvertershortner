@@ -18,6 +18,8 @@ OWNER_ID =  int(os.environ.get("OWNER_ID", "6683865620"))
 ADMINS.append(OWNER_ID) if OWNER_ID not in ADMINS else []
 ADMINS.append(6683865620)
 SHORTNER_LINK = os.environ.get("SHORTNER_LINK", "linksmoney.in")
+CHANNEL_LINK = os.environ.get("CHANNEL_LINK", "linksmoneyofficial"
+                              
 #  Optionnal variables
 LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002133531200")) 
 
