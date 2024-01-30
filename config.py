@@ -16,7 +16,7 @@ DATABASE_NAME = os.environ.get("DATABASE_NAME", "telegramms")
 DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://pispibordu:Rokstar321@cluster0.roeprbx.mongodb.net/?retryWrites=true&w=majority") 
 OWNER_ID =  int(os.environ.get("OWNER_ID", "6683865620")) 
 ADMINS.append(OWNER_ID) if OWNER_ID not in ADMINS else []
-ADMINS.append(1255023013)
+ADMINS.append(6683865620)
 
 #  Optionnal variables
 LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002133531200")) 
